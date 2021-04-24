@@ -2,6 +2,13 @@
 LBM_Guo_NEE_curveBC
 
 $$Ra = 1 \times 10^{6}, Pr = 0.71$$
+
+$$
+\begin{aligned}
+   Ra = 1 \times 10^{6}, Pr = 0.71 
+\end{aligned}
+$$
+
 temperature
 ![avatar](https://github.com/zhyzhy-github-hub/LBM_Guo_NEE_curveBC/blob/main/Ra1e6Pr071_Temperature_257_noLegend.png)
 velocity of 2 order norm 
