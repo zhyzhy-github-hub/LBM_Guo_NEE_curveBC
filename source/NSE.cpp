@@ -4,6 +4,8 @@
 using std::cout;
 using std::endl;
 
+// I added this
+// 123456
 NSE::NSE(const int NX_, const int NY_, const double nu_, const double c_)
     : NX(NX_), NY(NY_), nu(nu_), c(c_)
 {
